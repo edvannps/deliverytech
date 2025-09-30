@@ -1,1 +1,0 @@
-# systems-architecture-fat
