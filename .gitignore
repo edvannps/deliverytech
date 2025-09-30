@@ -1,0 +1,13 @@
+# Pastas de materiais de estudo que devem ser ignoradas
+classes/
+guias-das-ferramentas-para-praticas/
+
+# Ignorar arquivos de chaves SSH
+*.pub
+*.pem
+*.key
+
+# Ignorar arquivos de IDE, logs, etc. (Back-End/Java/Maven)
+target/
+.vscode/
+*.log
